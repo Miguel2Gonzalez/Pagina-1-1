@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+
+
+}
+
+.Form{
+    width: 425px;
+    padding: 10px;
+    background-color: rgb(253, 206, 192);
+    margin: auto;
+    margin-top: 65px;
+    border-radius: 18px;
+}
+
+.Form h1{
+    font-size: 25px;
+    margin-left: 120px;
+    color: rgb(0, 0, 0);
+}
+
+.Entradas{
+    padding: 5px;
+    width: 400px;
+    background-color: rgb(245, 181, 146);
+    border-radius: 7px;
+    border: 1px solid rgb(220, 103, 20);
+    margin-bottom: 5px;
+}
+
+.enviar{
+
+    border-radius: 10px;
+    background-color: rgb(240, 152, 90);
+    font-size: 15px;
+    width: 100px;
+    margin-left: 150px;
+    border: 1px solid crimson;
+    color: rgb(6, 7, 5);
+
+}
